@@ -174,7 +174,7 @@ Kemenkum DIY`;
 
   return (
     <main className="wrap">
-      <h1>Auto Post Sosmed</h1>
+      <h1>Post Sosmed Kemenkum Jogja</h1>
       <p className="sub">Posting ke Facebook, Instagram, Threads, dan X, lalu catat ke spreadsheet.</p>
 
       <ol className="rules">
