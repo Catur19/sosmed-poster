@@ -35,7 +35,7 @@ export default function Home() {
   const [files, setFiles] = useState([]);
   const [mode, setMode] = useState("sequential"); // sequential | parallel
   const [passcode, setPasscode] = useState("");
-  const [sheetWa, setSheetWa] = useState("Desember 2025");
+  const [sheetWa, setSheetWa] = useState("Oktober 2026");
   const [sheetImpact, setSheetImpact] = useState("Pelaporan Mandiri Periode Sept - Okt");
   const [links, setLinks] = useState({ facebook: "", instagram: "", threads: "", twitter: "" });
   const [logs, setLogs] = useState([]);
